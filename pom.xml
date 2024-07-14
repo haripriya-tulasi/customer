@@ -26,11 +26,11 @@
         <sonar.language>java</sonar.language>
     </properties>
 
-    <distributionManagement>
+   <distributionManagement>
     <repository>
         <id>central</id>
         <name>a0rokzeyno8dc-artifactory-primary-0-releases</name>
-        <url>https://haripriya32.jfrog.io/artifactory/maven-release-libs-release</url>
+        <url>https://haripriya32.jfrog.io/artifactory/hari-libs-release</url>
     </repository>
 </distributionManagement>
     
